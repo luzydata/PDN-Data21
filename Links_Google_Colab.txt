@@ -1,0 +1,7 @@
+Este archivo contiene los links de los Archivos de Google Colab en donde fué trabajada la info
+
+Analisis de Datos Generales: https://colab.research.google.com/drive/1Y1bvaJJWvK2NWnQnt5zlaiIbj-eh-VV7?usp=sharing
+Analisis de la Metadata: https://colab.research.google.com/drive/1VksLy3jem0cM0lOQjh8dgyoDRDBNmqaF?usp=sharing
+Analisis General y más completo de la información: https://colab.research.google.com/drive/1rWmzDoxGfPFYKHvHBh91AyQXg6nTLW8h?usp=sharing
+
+Primeras Pruebas para la generación de los CSV: https://colab.research.google.com/drive/1o6cLYV8i6ZPORnLZEfqTJXUvMZvjK-Jf?usp=sharing
