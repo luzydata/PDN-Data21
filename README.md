@@ -16,14 +16,14 @@ Esto es lo que nosotros logramos, tiene nuestro trabajo y nos encantará saber q
 ## Estructura
 * [code:](https://github.com/luzydata/PDN-Data21/edit/main/README.md) contiene los notebooks con nuestro código
 * [presentacion:](https://github.com/rikrdinii1/PDN-Data21/blob/main/presentacion/Presentacio%CC%81n.pdf) presentacion en PDF
-* [imágenes](https://github.com/rikrdinii1/PDN-Data21/tree/main/static) imágenes de la presentación
+* [imágenes:](https://github.com/rikrdinii1/PDN-Data21/tree/main/static) imágenes de la presentación.
 
 ## Notebooks (contenidos en ./code/)
 - [abrir_datos](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/abrir_datos_cosme.ipynb): contiene una primera aproximación a los 3 datasets (02/12/2021)
-- [Análisis exploratorio Deuda, ingresos y nivel de estudios](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Deuda%2C_Ingresos_Totales%2C_Estudios.ipynb) sólo cargamos la metadata XD
+- [Análisis exploratorio Deuda, ingresos y nivel de estudios](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Deuda%2C_Ingresos_Totales%2C_Estudios.ipynb) Tiene un análisi exploratorio de la deuda adquirida por servidor público y sus ingresos,las dependencias en las que laboran y una exploración de grados de estudio.
 - [Metadata](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Metadata.ipynb): abrimos la metadata.
-- [Generacion_CSV.py](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Generacion_CSV.py): pequeño convertidor para guardar csv
-- [Links_Google_Colab.txt]: notebooks originales
+- [Generacion_CSV.py](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Generacion_CSV.py): pequeño convertidor para guardar csv.
+- [Links_Google_Colab.txt]: algunos notebooks originales.
 
 ### Contáctanos: 
 - [Fuentes Ricardo](https://www.linkedin.com/in/ricardo-fuentes-carbo)
