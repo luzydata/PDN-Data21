@@ -3,12 +3,12 @@
 ## Bienvenid@!!!
 
 Este es el código que Ricardo y Cosme generamos para el
-  **[Datatón Anticorrupción 2021!(proyectos finales)](https://www.youtube.com/watch?v=CcsT_1gzf-8)**
+  **Datatón Anticorrupción 2021!**
 ¡Participar para ambos fue una fantástica experiencia! y la primera en algo así.
 
-En nuestro próximo experimento tendremos algo que nos haga sentir más orgullosos, coincidimos en haberla pasado muy bien y en haber tropezado muchas veces por **X OR Y**. en este momento ya no son importantes. 
+En nuestro siguiente experimento tendremos algo que nos haga sentir más orgullosos; coincidimos en haberla pasado muy bien y en haber tropezado muchas veces por **X OR Y**. En este momento esas precisiones ya no son tan importantes. 
 
-Importante es que cada trastabilló es un aprendizaje, que el tema es importante así como hacer difusión y que **vimos proyectos fantásticos e ideas geniales!.**
+Importante es que cada trastabilló es un aprendizaje, que el tema es importante así como hacer difusión y que **[vimos proyectos fantásticos e ideas geniales de un montón de gente!.(youtube finales)](https://www.youtube.com/watch?v=CcsT_1gzf-8)**
 
 Esto es lo que nosotros logramos, tiene nuestro trabajo y nos encantará saber que piensas:
 
@@ -19,11 +19,16 @@ Esto es lo que nosotros logramos, tiene nuestro trabajo y nos encantará saber q
 
 ## Notebooks (contenidos en ./code/)
 - [abrir_datos](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/abrir_datos_cosme.ipynb): contiene una primera aproximación a los 3 datasets (02/12/2021)
-- [Análisis exploratorio Deuda, ingresos y nivel de estudios](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Deuda%2C_Ingresos_Totales%2C_Estudios.ipynb)
+- [Análisis exploratorio Deuda, ingresos y nivel de estudios](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Deuda%2C_Ingresos_Totales%2C_Estudios.ipynb) sólo cargamos la metadata XD
 - [Metadata](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Analisis_Metadata.ipynb)
 - [Generacion_CSV.py](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Generacion_CSV.py): pequeño convertidor para guardar csv
 - [Links_Google_Colab.txt]: notebooks originales
 
+### Contáctanos: 
+- [Fuentes Ricardo](https://www.linkedin.com/in/ricardo-fuentes-carbo)
+- [Urdaibay Cosme](https://www.linkedin.com/in/urdaibayc/)
+
+Si llegaste hasta aquí! muchas gracias! 
 
 ## links de interés: 
 - https://github.com/PDNMX/dataton2021-datos
