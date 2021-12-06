@@ -2,7 +2,8 @@
 
 ## Bienvenid@!!!
 
-Este es el código que Ricardo y Cosme generamos para el
+Este es el código que <img src="https://avatars.githubusercontent.com/u/31456630?v=4" width="50" height="50">
+ **Ricardo y Cosme** <img src="https://pbs.twimg.com/profile_images/1380678275761070085/CKL5vhW5_400x400.jpg" width="50" height="50"> generamos para el
   **Datatón Anticorrupción 2021!**
 ¡Participar para ambos fue una fantástica experiencia! y la primera en algo así.
 
@@ -35,3 +36,6 @@ Si llegaste hasta aquí! muchas gracias!
 - https://www.youtube.com/watch?v=8Y2PCl5m474
 - https://www.sesna.gob.mx/
 - https://www.plataformadigitalnacional.org/
+
+
+### testing:
