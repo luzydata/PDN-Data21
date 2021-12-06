@@ -1,11 +1,16 @@
 # PDN-Data21
-Bienvenid@!!!
-Este es el código que Ricardo y Cosme generamos para el dataton!
-¡Participar para ambos fue una fantástica experiencia! y la primera de ambos en algo así.
 
-En nuestro próximo experimento tendremos algo que nos haga sentir más orgullosos, coincidimos en haberla pasado muy bien y en haber tropezado muchas veces por razones que, en este momento, ya no son importantes. Importante es que en este momento cada trastabilló es un aprendizaje, que nos importa el tema y hacer difusión, que vimos proyectos fantásticos e ideas geniales!
+## Bienvenid@!!!
 
-Esto es lo que logramos y nos encantará saber que piensas:
+Este es el código que Ricardo y Cosme generamos para el
+  **[Datatón Anticorrupción 2021!(proyectos finales)](https://www.youtube.com/watch?v=CcsT_1gzf-8)**
+¡Participar para ambos fue una fantástica experiencia! y la primera en algo así.
+
+En nuestro próximo experimento tendremos algo que nos haga sentir más orgullosos, coincidimos en haberla pasado muy bien y en haber tropezado muchas veces por **X OR Y**. en este momento ya no son importantes. 
+
+Importante es que cada trastabilló es un aprendizaje, que el tema es importante así como hacer difusión y que **vimos proyectos fantásticos e ideas geniales!.**
+
+Esto es lo que nosotros logramos, tiene nuestro trabajo y nos encantará saber que piensas:
 
 ## Estructura
 * [code:](https://github.com/luzydata/PDN-Data21/edit/main/README.md) contiene los notebooks con nuestro código
