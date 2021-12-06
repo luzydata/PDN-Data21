@@ -25,7 +25,7 @@ Esto es lo que nosotros logramos, tiene nuestro trabajo y nos encantará saber q
 - [Generacion_CSV.py](https://github.com/rikrdinii1/PDN-Data21/blob/main/code/Generacion_CSV.py): pequeño convertidor para guardar csv.
 - [Links_Google_Colab.txt]: algunos notebooks originales.
 
-### Contáctanos: 
+### Contacto: 
 - [Fuentes Ricardo](https://www.linkedin.com/in/ricardo-fuentes-carbo)
 - [Urdaibay Cosme](https://www.linkedin.com/in/urdaibayc/)
 
@@ -37,5 +37,3 @@ Si llegaste hasta aquí! muchas gracias!
 - https://www.sesna.gob.mx/
 - https://www.plataformadigitalnacional.org/
 
-
-### testing:
